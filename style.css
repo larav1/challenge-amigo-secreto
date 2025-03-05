@@ -4,7 +4,7 @@
   --color-tertiary: #d3c8b4;
   --color-button: #657a38;
   --color-button-hover: #85a540;
-  --color-text: #444444;
+  --color-text: #020202;
   --color-white: #ffffff;
 }
 
@@ -133,6 +133,13 @@ ul {
   font-family: "Inter", sans-serif;
   font-size: 18px;
   margin: 20px 0;
+}
+
+ul li {
+  border: 2px solid var(--color-button);
+  padding: 8px;
+  margin-bottom: 6px;
+  border-radius: 6px;
 }
 
 .result-list {
