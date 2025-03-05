@@ -7,5 +7,7 @@ Este é um simples sorteador de amigo secreto desenvolvido com HTML, CSS e JavaS
 ## 🖥️ Tecnologias Utilizadas
 
 HTML → Estrutura da página
+
 CSS → Estilização da interface
+
 JavaScript → Lógica do sorteio e manipulação do DOM
